@@ -1,11 +1,8 @@
-## Demo Mentors
+# Demo Mentors
 
-###Funções
-<ol>
-  <li>a</li>
-  <li>a</li>
-  <li>a</li>
-</ol>
+### Funções
+
+*italico*
 
 
 O nootbook está rodando em uma VM no seguinte [link](http://34.151.208.60/hub/user-redirect/git-pull?repo=https://github.com/LucasTieni/Teste-Mentors&branch=main&subPath=TesteMentors.ipynb&app=notebook)
