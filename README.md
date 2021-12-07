@@ -36,6 +36,10 @@ O teste está rodando em uma VM.
 
 Para testar, crie o login e senha no <a href="http://34.151.208.60" target="_blank">link</a> (salva primeira senha digitada).
 
+[link](http://34.151.208.60) {
+   : target = "_blank"
+}
+
 [Link in new Tab](http://34.151.208.60?target=_blank)
 
 Agora acesse o teste <a href="http://34.151.208.60/hub/user-redirect/git-pull?repo=https://github.com/LucasTieni/Teste-Mentors&branch=main&subPath=TesteMentors.ipynb&app=notebook" target="_blank">aqui</a>.
