@@ -34,7 +34,7 @@ Para todar o teste, clique no box de codigo e depois clique em Run.
 
 O teste está rodando em uma VM.
 
-Para testar, crie o login e senha no <a href="http://34.151.208.60" target="_blank">link</a> (salva primeira senha digitada).
+Para testar, crie o login e senha no <a href="http://34.151.208.60" target="\_blank">link</a> (salva primeira senha digitada).
 
 [Link in new Tab](http://34.151.208.60?target=_blank)
 
