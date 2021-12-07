@@ -6,15 +6,21 @@ Existem três funções:
 
 1. Retorna a lista de produtos com preço de acordo com a condição de pagamento selecionada;
 
+<kbd>
    <img src="funcao1.png" alt="drawing" width="500"/>
-   
+</kbd>   
+
 2. Retorna o fator de mutiplicação de determinado cliente;
 
+<kbd>
    <img src="funcao2.png" alt="drawing" width="500"/>
+</kbd>
    
 3. Retorna o preço do produto determinado de acordo com o cliente selecionado.
-   
+
+<kbd>
    <img src="funcao3.png" alt="drawing" width="500"/>
+</kbd>   
 
 Clique no box de codigo e depois clique em Run.
 
