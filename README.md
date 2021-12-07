@@ -34,11 +34,9 @@ Para todar o teste, clique no box de codigo e depois clique em Run.
 
 O teste está rodando em uma VM.
 
-Para testar, crie o login e senha no [link](http://34.151.208.60){:target="_blank"} (salva primeira senha digitada).
+Para testar, crie o login e senha no <a href="http://34.151.208.60" target="_blank">link</a> (salva primeira senha digitada).
 
-<a href="http://34.151.208.60" target="_blank">Hello, world!</a>
-
-Agora acesse o teste [aqui](http://34.151.208.60/hub/user-redirect/git-pull?repo=https://github.com/LucasTieni/Teste-Mentors&branch=main&subPath=TesteMentors.ipynb&app=notebook).
+Agora acesse o teste <a href="http://34.151.208.60/hub/user-redirect/git-pull?repo=https://github.com/LucasTieni/Teste-Mentors&branch=main&subPath=TesteMentors.ipynb&app=notebook" target="_blank">aqui</a>.
 
 
 
