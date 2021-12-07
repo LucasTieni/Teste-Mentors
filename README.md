@@ -17,14 +17,14 @@ Existem três funções:
    <img src="funcao2.png" alt="drawing" width="500"/>
 </kbd>
    
-   
+<br>   
 3. Retorna o preço do produto determinado de acordo com o cliente selecionado.
 
 <kbd>
    <img src="funcao3.png" alt="drawing" width="500"/>
 </kbd>   
 
-
+<br>
 Para todar o teste, clique no box de codigo e depois clique em Run.
 
 ### Acesso
