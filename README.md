@@ -5,10 +5,13 @@
 Existem três funções:
 
 1. Retorna a lista de produtos com preço de acordo com a condição de pagamento selecionada;
-   ![funcao1](funcao1.png)
-   <img src="funcao1.png" alt="drawing" width="200"/>
-3. Retorna o fator de mutiplicação de determinado cliente;
-4. Retorna o preço do produto determinado de acordo com o cliente selecionado.
+   <img src="funcao1.png" alt="drawing" width="600"/>
+   
+2. Retorna o fator de mutiplicação de determinado cliente;
+   <img src="funcao2.png" alt="drawing" width="600"/>
+   
+3. Retorna o preço do produto determinado de acordo com o cliente selecionado.
+   <img src="funcao3.png" alt="drawing" width="600"/>
 
 Clique no box de codigo e depois clique em Run.
 
