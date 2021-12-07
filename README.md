@@ -12,10 +12,10 @@ Existem três funções:
 <br /> 
 2. Retorna o fator de mutiplicação de determinado cliente;
 <kbd>
-   <img src="funcao2.png" alt="drawing" width="500"/>
+   <img src="funcao2.png" alt="drawing" width="600"/>
 </kbd>
-   
-  <br /> 
+ <br />   
+  
 3. Retorna o preço do produto determinado de acordo com o cliente selecionado.
 <kbd>
    <img src="funcao3.png" alt="drawing" width="500"/>
